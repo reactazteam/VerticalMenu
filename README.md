@@ -4,9 +4,9 @@
 ### Vertical Menu - Animation Effect ###
 
 * Quick summary
-This is just a simple project to show you the idea how to implement a menu by yourself.
-#[Demo Gif](http://g.recordit.co/5Rp1n1RCfg.gif)
+* This is just a simple project to show you the idea how to implement a menu by yourself.
 * Version 1.0
+* ![Demo Gif](http://g.recordit.co/5Rp1n1RCfg.gif)
 
 
 ### Installation ###
