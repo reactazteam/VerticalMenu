@@ -3,8 +3,8 @@
 
 ### Vertical Menu - Animation Effect ###
 
-* Quick summary
-* This is just a simple project to show you the idea how to implement a menu by yourself.
+* The idea for making vertical menu with React Native. This is just a simple project to show you the idea how to implement a menu by yourself.
+* It helps you create the vertical menu quickly and professionally. It’s easy to customize and develop. 
 * Version 1.0
 * ![Demo Gif](http://g.recordit.co/5Rp1n1RCfg.gif)
 
