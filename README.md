@@ -22,5 +22,8 @@ Run on android
 
 
 ### Who do I talk to? ###
-* https://reactaz.com
-* https://support.reactaz.com
+* [Build app Faster with ReactAZ](https://reactaz.com/?utm_source=github&utm_medium=talk2pro_animation_VerticalMenu)
+* [ReactAZ Community Support](https://support.reactaz.com/?utm_source=github&utm_medium=talk2pro_animation_VerticalMenu)
+
+### Pro version ###
+* [Animation Kit - React Native Full Theme](https://reactaz.com/downloads/animation-kit-react-native-full-theme/?utm_source=github&utm_medium=free2pro_animation_VerticalMenu)
